@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "p/GrA+Qm78XRYKLe2N1UwnXhVK4=",
+			"path": "github.com/mchalski/foo/foo",
+			"revision": "9a94d14d3731c71edededae385f93b3644f52c19",
+			"revisionTime": "2016-10-20T18:08:00Z"
+		}
+	],
+	"rootPath": "github.com/mchalski/bar"
+}
